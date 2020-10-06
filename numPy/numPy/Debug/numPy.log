@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\abuba_000\source\repos\numpy\numpy\main.cpp(11): warning C4101: 'input': unreferenced local variable
+c:\users\abuba_000\source\repos\numpy\numpy\main.cpp(87): warning C4101: 'input1': unreferenced local variable
+  numPy.vcxproj -> C:\Users\abuba_000\source\repos\numPy\Debug\numPy.exe
